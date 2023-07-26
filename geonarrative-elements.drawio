@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T09:16:43.402Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="1ghoqo9i_9xtnSZIjnza" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T11:17:31.672Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="DVvYBXANxi3lAv0RxfAA" version="21.6.5" type="github">
   <diagram name="第 1 页" id="3gR5G5Qrm7RXvYCktuTw">
     <mxGraphModel dx="1094" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -646,6 +646,24 @@
             <mxPoint x="568.05" y="575" as="sourcePoint" />
             <mxPoint x="511.05" y="600" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mGmRU06tDUQoCovpRSwj-2" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
+          <mxGeometry x="166.91000000000003" y="750" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mGmRU06tDUQoCovpRSwj-3" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
+          <mxGeometry x="166.91000000000003" y="700" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mGmRU06tDUQoCovpRSwj-4" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
+          <mxGeometry x="166.91000000000003" y="650" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mGmRU06tDUQoCovpRSwj-5" value="Map layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="326.91" y="790" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mGmRU06tDUQoCovpRSwj-6" value="Multimedia Layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="326.90999999999997" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mGmRU06tDUQoCovpRSwj-7" value="Interactive layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="326.91" y="730" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
