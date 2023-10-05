@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T14:09:34.576Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="cDN4t7rXT3fQHifX35QN" version="22.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-05T14:13:28.847Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="pBexRzMiG8nmv0jCfgOa" version="22.0.2" type="github">
   <diagram name="第 1 页" id="zusZAxVYBKf6wO3884qA">
-    <mxGraphModel dx="693" dy="380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="837" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OF40uoXXn-pdmVkBGDkX-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;HiStory&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;arcSize=9;" vertex="1" parent="1">
-          <mxGeometry x="390" y="40" width="370" height="310" as="geometry" />
+          <mxGeometry x="390" y="40" width="370" height="270" as="geometry" />
         </mxCell>
         <mxCell id="OF40uoXXn-pdmVkBGDkX-2" value="Hierarchical event-based narrative framework" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="2.4868995751603507e-14" y="40" width="380" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="OF40uoXXn-pdmVkBGDkX-3" value="Multimodal data" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="2.4868995751603507e-14" y="269" width="380" height="80" as="geometry" />
+        <mxCell id="OF40uoXXn-pdmVkBGDkX-3" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;Multimodal data" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry y="270" width="380" height="41" as="geometry" />
         </mxCell>
         <mxCell id="OF40uoXXn-pdmVkBGDkX-4" value="Hierarchical event-based narrative model" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#ecf4ec;strokeColor=#141414;" vertex="1" parent="1">
           <mxGeometry x="24.000000000000025" y="154" width="246" height="96" as="geometry" />
@@ -20,19 +20,19 @@
           <mxGeometry x="290" y="154" width="65.25" height="96" as="geometry" />
         </mxCell>
         <mxCell id="OF40uoXXn-pdmVkBGDkX-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/4404/4404094.png;" vertex="1" parent="1">
-          <mxGeometry x="77.50000000000003" y="276.75" width="50" height="50" as="geometry" />
+          <mxGeometry x="66.5" y="272.88" width="33.25" height="33.25" as="geometry" />
         </mxCell>
         <mxCell id="OF40uoXXn-pdmVkBGDkX-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/5261/5261286.png;" vertex="1" parent="1">
-          <mxGeometry x="17.500000000000025" y="280.5" width="42.5" height="42.5" as="geometry" />
+          <mxGeometry x="24" y="275.5" width="29.5" height="29.5" as="geometry" />
         </mxCell>
         <mxCell id="OF40uoXXn-pdmVkBGDkX-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/1375/1375106.png;" vertex="1" parent="1">
-          <mxGeometry x="147.50000000000003" y="274.25" width="55" height="55" as="geometry" />
+          <mxGeometry x="110.5" y="271.63" width="35.75" height="35.75" as="geometry" />
         </mxCell>
         <mxCell id="OF40uoXXn-pdmVkBGDkX-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://t3.ftcdn.net/jpg/06/22/78/72/360_F_622787274_wVcLtwHNuyHWcaEFj5v3gOXPu5Hmnpmp.jpg;" vertex="1" parent="1">
-          <mxGeometry x="220.00000000000003" y="281.75" width="55.45" height="40" as="geometry" />
+          <mxGeometry x="260" y="275.38" width="39.16" height="28.25" as="geometry" />
         </mxCell>
         <mxCell id="OF40uoXXn-pdmVkBGDkX-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/4698/4698171.png;" vertex="1" parent="1">
-          <mxGeometry x="300" y="274.25" width="54.75" height="54.75" as="geometry" />
+          <mxGeometry x="319.5" y="271.63" width="35.75" height="35.75" as="geometry" />
         </mxCell>
         <mxCell id="OF40uoXXn-pdmVkBGDkX-11" value="Event tree" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/1/1549.png;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="109.00000000000003" y="150" width="65" height="65" as="geometry" />
@@ -59,19 +59,19 @@
           <mxGeometry x="104.00000000000003" y="192.5" width="80" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="OF40uoXXn-pdmVkBGDkX-17" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="34.00000000000003" y="78" width="340" height="59.59999999999997" as="geometry" />
+          <mxGeometry x="34.00000000000003" y="78" width="340" height="66" as="geometry" />
         </mxCell>
         <mxCell id="OF40uoXXn-pdmVkBGDkX-18" value="Atom &lt;br&gt;event" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="OF40uoXXn-pdmVkBGDkX-17">
-          <mxGeometry x="110" y="6" width="210" height="60" as="geometry" />
+          <mxGeometry x="180" y="6" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OF40uoXXn-pdmVkBGDkX-20" value="Actor" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#eeeeee;" vertex="1" parent="OF40uoXXn-pdmVkBGDkX-17">
-          <mxGeometry x="150" y="14.1" width="75.70636744626196" height="17.6" as="geometry" />
+          <mxGeometry x="226" y="13.25" width="75.70636744626196" height="17.6" as="geometry" />
         </mxCell>
         <mxCell id="OF40uoXXn-pdmVkBGDkX-22" value="…" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="OF40uoXXn-pdmVkBGDkX-17">
           <mxGeometry x="-10" y="6" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OF40uoXXn-pdmVkBGDkX-21" value="Action" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#eeeeee;" vertex="1" parent="OF40uoXXn-pdmVkBGDkX-17">
-          <mxGeometry x="149.99966337704478" y="41.99999999999997" width="75.70636744626196" height="17.6" as="geometry" />
+          <mxGeometry x="225.99966337704478" y="41.14999999999997" width="75.70636744626196" height="17.6" as="geometry" />
         </mxCell>
         <mxCell id="OF40uoXXn-pdmVkBGDkX-24" value="Atom event" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="82.50000000000003" y="84" width="52.5" height="60" as="geometry" />
@@ -87,7 +87,7 @@
             <mxPoint x="220.00000000000003" y="129" as="sourcePoint" />
             <mxPoint x="270" y="79" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="350" y="90" />
+              <mxPoint x="370" y="110" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -127,7 +127,7 @@
             <mxPoint x="632.7628130360205" y="209.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OF40uoXXn-pdmVkBGDkX-44" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.976;entryY=0.969;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OF40uoXXn-pdmVkBGDkX-35" target="OF40uoXXn-pdmVkBGDkX-4">
+        <mxCell id="OF40uoXXn-pdmVkBGDkX-44" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.015;exitY=0.359;exitDx=0;exitDy=0;entryX=0.976;entryY=0.969;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="OF40uoXXn-pdmVkBGDkX-35" target="OF40uoXXn-pdmVkBGDkX-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="155.00000000000003" y="28" as="sourcePoint" />
             <mxPoint x="200.00000000000003" y="132" as="targetPoint" />
@@ -170,22 +170,19 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="291" y="158" as="sourcePoint" />
             <mxPoint x="336.34066513451376" y="133.9287999999999" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="340" y="110" />
-            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OF40uoXXn-pdmVkBGDkX-62" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OF40uoXXn-pdmVkBGDkX-5" target="OF40uoXXn-pdmVkBGDkX-21">
+        <mxCell id="OF40uoXXn-pdmVkBGDkX-62" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OF40uoXXn-pdmVkBGDkX-5" target="OF40uoXXn-pdmVkBGDkX-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="301" y="168" as="sourcePoint" />
             <mxPoint x="346.34066513451376" y="143.9287999999999" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="260" y="150" />
-            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OF40uoXXn-pdmVkBGDkX-63" value="Linking" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#080808;" vertex="1" parent="1">
+        <mxCell id="OF40uoXXn-pdmVkBGDkX-63" value="Link" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#080808;" vertex="1" parent="1">
           <mxGeometry x="502.9951457975986" y="260" width="86.83533447684391" height="29.999999999999947" as="geometry" />
+        </mxCell>
+        <mxCell id="OF40uoXXn-pdmVkBGDkX-64" value="Atom event" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="147.50000000000003" y="83.06" width="52.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
